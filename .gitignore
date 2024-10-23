@@ -1,0 +1,10 @@
+# dotenv environment variable files
+.env
+.*env*
+!.env.example
+
+# Fresh build directory
+_fresh/
+
+# npm dependencies
+node_modules/
