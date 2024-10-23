@@ -1,5 +1,8 @@
 {
   "$schema": "https://deno.land/x/deno@v2.0.0/cli/schemas/config-file.v1.json?source=",
+  "name": "@morlinbrot/fresh-plugin-supabase",
+  "version": "0.1.0",
+  "exports": "./main.ts",
   "exclude": ["**/_fresh/*"],
   "compilerOptions": {
     "jsx": "react-jsx",
